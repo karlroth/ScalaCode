@@ -1,7 +1,7 @@
 package FunctionalProgramming
 
 /**
-  * Created by karoth on 7/3/17.
+  * Created by Karl Roth on 7/3/17.
   */
 object MyModule {
 
