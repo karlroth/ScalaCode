@@ -3,7 +3,7 @@ package FunctionalProgramming
 /**
   * Created by Karl Roth on 7/3/17.
   */
-object MyModule {
+object Fibonacci {
 
   def fib(n: Int): Int = {
     /**
