@@ -42,11 +42,11 @@ object Polymorphic {
   }
 
 
-
+  /**
+    * An implementation of the above functions.
+    */
   def main(args:Array[String]): Unit = {
-    /**
-      * An implementation
-      */
+
     val as: Array[Int] = Array(1,1,3,4,5)
 
     println("Ascending sort: " + isSorted[Int](as, ascending))
